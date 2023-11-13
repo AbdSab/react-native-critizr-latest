@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:2:1-14:12
+	package
+		ADDED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:3:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:6:3-64
+	android:name
+		ADDED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:6:20-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:7:3-76
+	android:name
+		ADDED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:7:20-74
+application
+ADDED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:9:3-12:17
+activity#com.CritizrSDK.CritizrActivity
+ADDED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:10:5-62
+	android:name
+		ADDED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:10:15-60
+uses-library#org.apache.http.legacy
+ADDED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:11:5-83
+	android:required
+		ADDED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:11:57-81
+	android:name
+		ADDED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:11:19-56
+uses-sdk
+INJECTED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml

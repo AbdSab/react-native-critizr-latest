@@ -1,0 +1,29 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.reactnativecritizr" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+5-->/Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.INTERNET" />
+7-->/Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:6:3-64
+7-->/Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:6:20-62
+8    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+8-->/Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:7:3-76
+8-->/Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:7:20-74
+9
+10    <application>
+10-->/Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:9:3-12:17
+11        <activity android:name="com.CritizrSDK.CritizrActivity" />
+11-->/Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:10:5-62
+11-->/Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:10:15-60
+12
+13        <uses-library
+13-->/Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:11:5-83
+14            android:name="org.apache.http.legacy"
+14-->/Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:11:19-56
+15            android:required="false" />
+15-->/Users/mobiblanc/Desktop/LabelVie/mobile-stable/fid-mobile/node_modules/react-native-critizr/android/src/main/AndroidManifest.xml:11:57-81
+16    </application>
+17
+18</manifest>
